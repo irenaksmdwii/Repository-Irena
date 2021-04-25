@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<pasien>
+<record>
+<id>9</id>
+<nama>Demi Lovato</nama>
+<alamat>Jl rindu tiada tara no 4 Kota Jakarta</alamat>
+<jenis_kelamin>Perempuan</jenis_kelamin>
+<umur>22</umur>
+<riwayat_penyakit>ambeyen</riwayat_penyakit>
+</record>
+<record>
+<id>26</id>
+<nama>Justin Bieber</nama>
+<alamat>Jl ingin kembali no 3 Kota Jakarta</alamat>
+<jenis_kelamin>Laki-Laki</jenis_kelamin>
+<umur>23</umur>
+<riwayat_penyakit>jantung</riwayat_penyakit>
+</record>
+</pasien>
